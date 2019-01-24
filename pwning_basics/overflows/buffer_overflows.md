@@ -109,10 +109,10 @@ The information contained within this guide largely relates to the `C`
 programming language but the concept itself is universal. It is also important 
 to keep in mind that I am working on Manjaro Linux so the following should be
 noted:  
-- Example Programs are compiled in ELF format
-- Not all Linux Systems are made equally
-  - Default compiler options may, _and often do_, vary between distros
-  - Default security mechanisms may, _and often do_, vary between distros
+> - Example Programs are compiled in ELF format
+> - Not all Linux Systems are made equally
+>   - Default compiler options may, _and often do_, vary between distros
+>   - Default security mechanisms may, _and often do_, vary between distros
 
 > **Note**  
 I highly recommend starting out with a Virtual Machine running [64-bit Ubuntu](
