@@ -90,9 +90,9 @@ sample: ELF 32-bit LSB pie executable, Intel 80386, version 1 (SYSV), dynamicall
 > **Compilation Notes**:
 In the above example, the flags `-m32`, `-fno-stack-protector`, and `-fno-pie` 
 are used. Their meanings are as follows:  
-> `-m32` : Compile the program as 32-bit
-> `-fno-stack-protector` : Disable stack smashing protection
-> `-fno-pie` : Ensure the program is not compiled as a ["Position Independant Executable"](https://en.wikipedia.org/wiki/Position-independent_code)
+> `-m32` : Compile the program as 32-bit  
+> `-fno-stack-protector` : Disable stack smashing protection  
+> `-fno-pie` : Ensure the program is not compiled as a ["Position Independant Executable"](https://en.wikipedia.org/wiki/Position-independent_code)  
 > The reason for these flags is to make this example easier to digest as 
 64-bit builds, stack protections, and position independant execution complicates 
 the topic more than needed at this point in time.
