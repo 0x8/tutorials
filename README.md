@@ -2,6 +2,10 @@
 ##### A Collection of Hacking Tutorials By: PhantomOfTheNOPera
 
 ---
+## This is a work in progress
+The current contents of this repository are incomplete, unreviewed, and unedited. For
+the time being, take all of this with a grain of salt. I hope to further complete this
+repository with additional guides and revisions as time allows.
 
 ## About
 
