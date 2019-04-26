@@ -1,5 +1,5 @@
 # So You Want To Hack The Planet?
-##### A Collection of Hacking Tutorials By: PhantomOfTheNOPera
+##### A Collection of Hacking Tutorials By: PhantomOfTheNOPera (my current CTF moniker)
 
 ---
 ## This is a work in progress
